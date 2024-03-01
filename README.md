@@ -1,5 +1,5 @@
 # Theme Switcher
 
-### ✈️[View live here](https://shrestha-ashish.github.io/Theme-Switcher/)
+### ✈️[View live here](https://ashishshres.github.io/Theme-Switcher/)
 
 ![](./demo.png)
