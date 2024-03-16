@@ -1,5 +1,3 @@
-# Theme Switcher
+# Theme Switcher🥽
 
-### ✈️[View live here](https://ashish-shr.github.io/Theme-Switcher/)
-
-![](./demo.png)
+### Preview
