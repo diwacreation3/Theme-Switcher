@@ -9,7 +9,12 @@ for (div of divs) {
       body.style.backgroundColor = "pink";
     } else if (e.target.className == "yellow") {
       body.style.backgroundColor = "yellow";
-    } else {
+    } else if(e.target.className == "Blue")
+    {
+      body.style.backgroundColor = "Blue";
+    }
+    else
+    {
       body.style.backgroundColor = "skyblue";
     }
   });
